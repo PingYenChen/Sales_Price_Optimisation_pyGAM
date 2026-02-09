@@ -1,5 +1,5 @@
 # Sales_Price_Optimisation_pyGAM
-# Price Optimization for iPhone Cases using GAMs 💰
+# Price Optimization for Phone Cases using GAMs 💰
 
 A Jupyter notebook for **price optimization** using Generalized Additive Models (GAMs) on mock sales data for Phone cases.  
 It models price-quantity relationships, estimates revenue curves with uncertainty (expectiles), and identifies optimal prices by product and promotional events — blending statistics, machine learning, and visualization for revenue maximization.
