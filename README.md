@@ -48,4 +48,4 @@ This GAM-based optimization extends to various pricing domains:
 - **Finance/Operations**: Inventory pricing, yield management (e.g., airlines/hotels), cost-plus adjustments.
 - **Extensions**: Integrate real-time data (e.g., via APIs), add multi-product interactions, use Bayesian GAMs for priors, or deploy as dashboard (Streamlit).
 
-Fork and customize with your sales data – great for pricing analytics portfolios! 🌟
+Thanks for reading 🌟
